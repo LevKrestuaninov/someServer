@@ -29,6 +29,8 @@ app.get('/game', (req, res) => {
     res.render('game')
 })
 
+//idjilfjl
+
 const PORT = 3000;
 const HOST = 'localhost'
 
